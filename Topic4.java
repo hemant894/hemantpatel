@@ -1,0 +1,44 @@
+package homework2;
+
+public class Topic4 {public static void main(String[]args){System.out.println("******* Software Development Models ********");
+System.out.println("What is software development Models?");
+System.out.println("Software development models is processes or methodologies that are being selected for the development of the project depending on the project's aims or goals.");
+System.out.println(" ~~~~~~~~~~~~~~  Waterfall Model  ~~~~~~~~~~~~ ");
+System.out.println(" Waterfall model is a sequential model that divides software development in pre-defined phases.");
+System.out.println(" In waterfall model each phase must be completed before next phase can begin.");
+System.out.println(" In waterfall model each phase is designed for performing specific activity during SDLC.");
+System.out.println(" WHEN CAN WE USE WATERFALL MODEL?");
+System.out.println("------@ Watefall model can be used when Requirements are not changing frequently.");
+System.out.println("------@ Appicaction is not complicated and big.");
+System.out.println("------@ Project is short.");
+System.out.println("------@ Requirement is clear.");
+System.out.println("------@ Environment is stable");
+System.out.println("------@ Resources are available and trained.");
+System.out.println("0000000000000 WATERFALL MODEL ADVANTAGES 0000000000000000 ");
+System.out.println("00000  Before the next phase of development , each phase must be completed.");
+System.out.println("00000  Simple and easy to understand and use.");
+System.out.println("00000  Any changes in software is made during the process of the development.");
+System.out.println("!!!!!!!!!!! WATERFALL MODEL DIS ADVANTAGES !!!!!!!!!!!!!!!!");
+System.out.println("!!!!!   Error can be fixed only during the phase.");
+System.out.println("!!!!!   Not a good model for complex and object oriented projects.");
+System.out.println("!!!!!   Testing period comes quite late in the developmental process.");
+System.out.println(" ~~~~~~~~~~~  What is Iterative model  ~~~~~~~~~~~~~~ ");
+System.out.println(" ~~~~ Iteration : the repetition of a process.");
+System.out.println(" ~~~~ Full specification of requirements not needed. instead development begins by specifying and implementing just part of the software.");
+System.out.println(" %%%%%%%% what is V-Model? %%%%%%%% ");
+System.out.println(" Extension of Waterfall model, also known as verification and validation model.");
+System.out.println(" For every phase, in the development life cycle there is a matching testing phase.");
+System.out.println("++++++++++++++++++ V-Model Advantages +++++++++++++++++++++ ");
+System.out.println(" Simple and easy to use.");
+System.out.println(" Proactive defect tracking - that is defects are found at early stage.");
+System.out.println(" Avoids the downward flow of the defects.");
+System.out.println(" Works well for small projects where requirement are easily understood.");
+System.out.println(" +++++++++++++ =========  Dis advantages of V-Model ======== ++++++++++++++");
+System.out.println(" Poor model for long and ongoing projects.");
+System.out.println(" If any changes happen in midway , then the test documents along with requirement documents has to be updated.");
+System.out.println("Not suitable for the projects where requirement are keep changing.");
+System.out.println("Verification and Validation");
+System.out.println("Verification :- It involves static analysis technique (review) done without executing code. ");
+System.out.println("Validation : - In involves dynamic analysis technique (functional and non functional ) testing done by executing code.");
+}
+}
